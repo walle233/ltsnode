@@ -2,5 +2,5 @@
 
 ## usage
 
-npm i walle-ltsn -g
-ltsn 10
+- npm i walle-ltsn -g
+- ltsn 10
